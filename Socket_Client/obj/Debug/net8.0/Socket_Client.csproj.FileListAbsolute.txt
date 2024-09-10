@@ -1,0 +1,17 @@
+D:\KIFS_Test\Socket_Client\bin\Debug\net8.0\Socket_Client.exe
+D:\KIFS_Test\Socket_Client\bin\Debug\net8.0\Socket_Client.deps.json
+D:\KIFS_Test\Socket_Client\bin\Debug\net8.0\Socket_Client.runtimeconfig.json
+D:\KIFS_Test\Socket_Client\bin\Debug\net8.0\Socket_Client.dll
+D:\KIFS_Test\Socket_Client\bin\Debug\net8.0\Socket_Client.pdb
+D:\KIFS_Test\Socket_Client\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\KIFS_Test\Socket_Client\obj\Debug\net8.0\Socket_Client.csproj.AssemblyReference.cache
+D:\KIFS_Test\Socket_Client\obj\Debug\net8.0\Socket_Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\KIFS_Test\Socket_Client\obj\Debug\net8.0\Socket_Client.AssemblyInfoInputs.cache
+D:\KIFS_Test\Socket_Client\obj\Debug\net8.0\Socket_Client.AssemblyInfo.cs
+D:\KIFS_Test\Socket_Client\obj\Debug\net8.0\Socket_Client.csproj.CoreCompileInputs.cache
+D:\KIFS_Test\Socket_Client\obj\Debug\net8.0\Socket_C.381CCB04.Up2Date
+D:\KIFS_Test\Socket_Client\obj\Debug\net8.0\Socket_Client.dll
+D:\KIFS_Test\Socket_Client\obj\Debug\net8.0\refint\Socket_Client.dll
+D:\KIFS_Test\Socket_Client\obj\Debug\net8.0\Socket_Client.pdb
+D:\KIFS_Test\Socket_Client\obj\Debug\net8.0\Socket_Client.genruntimeconfig.cache
+D:\KIFS_Test\Socket_Client\obj\Debug\net8.0\ref\Socket_Client.dll
